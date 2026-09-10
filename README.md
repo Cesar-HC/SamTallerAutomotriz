@@ -15,7 +15,7 @@ Sistema de escritorio desarrollado en **C# (.NET Framework 4.7.2)** y **Windows 
 
 ---
 
-## 🚀 Guía de Despliegue y Ejecución
+## Guía de Despliegue y Ejecución
 
 Sigue estos 3 pasos para poner en marcha la solución localmente sin errores de conexión.
 
