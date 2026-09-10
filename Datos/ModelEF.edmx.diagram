@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="84a37907c30949dfa5353e43a34881aa" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="ModelEF.Administrador" Width="1.5" PointX="7.5" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Cliente" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Distrito" Width="1.5" PointX="3" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Marca" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Mecanico" Width="1.5" PointX="7.5" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Orden" Width="1.5" PointX="9.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Provincia" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.TipoEspecialidad" Width="1.5" PointX="5.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.TipoVehiculo" Width="1.5" PointX="5.25" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Vehiculo" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="ModelEF.FK_Administrador_TO_Orden" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Cliente_TO_Vehiculo" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Distrito_TO_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Provincia_TO_Distrito" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Marca_TO_Vehiculo" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Mecanico_TO_Orden" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_TipoEspecialidad_TO_Mecanico" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Vehiculo_TO_Orden" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_TipoVehiculo_TO_Vehiculo" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

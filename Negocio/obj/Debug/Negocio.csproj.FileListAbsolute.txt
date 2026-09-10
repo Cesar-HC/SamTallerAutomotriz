@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\Datos.dll.config
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Desktop\SAM_Proyect_v.6\Negocio\obj\Debug\Negocio.pdb
